@@ -70,7 +70,6 @@ if (this.id !== null) {
 }
 
 
-
 }
 
 esEditar(){
